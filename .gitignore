@@ -3,4 +3,4 @@ __pycache__/
 *.py[cod]
 .vscode/
 .DS_Store
-twist.py
+/twist.py
